@@ -67,7 +67,7 @@
       <div class="row">
         <div class="col col-d-6 col-t-6 col-m-12 border-line-v">
           <div class="text-box">
-            <p> <strong>Hello! I’m Risky Adit Pratama.</strong><br> Saya merupakan lulusan Sarjana dengan Jurusan Teknik Informatika. Memiliki pengalaman sebagai seorang
+            <p style="text-align: justify;"> <strong>Hello! I’m Risky Adit Pratama.</strong><br> Saya merupakan lulusan Sarjana dengan Jurusan Teknik Informatika. Memiliki pengalaman sebagai seorang
               Web Developer selama kurang lebih 3 tahun. Selama menjadi Web Developer yang saya pernah kerjakan
               adalah menganalisis, merancang , membangun dan mengembangkan aplikasi Milik Kementrian Dalam Negeri
             Dan Badan POM RI. </p> 
